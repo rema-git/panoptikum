@@ -11,6 +11,6 @@ Installation
 1. download panoptikum from github
 2. install python > 2.7 (python3 not supported so far)
 3. install pygtk > 2.20
-4. python packages needed: pandas, numpy, matplotlib, pylab
-5. set folders properly in panoptikum.py
+4. python packages needed: pandas, numpy, matplotlib, pylab, scipy
+5. set folders properly in panoptikum.py, adwin.py
 5. run it!
